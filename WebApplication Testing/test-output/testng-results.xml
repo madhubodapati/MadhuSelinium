@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2018-07-02T04:26:10Z" finished-at="2018-07-02T04:26:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2018-07-02T04:26:10Z" finished-at="2018-07-02T04:26:10Z">
+      <class name="com.Annotations.Annotations1">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:com.Annotations.Annotations1@61a485d2]" name="BrowserLaunch" duration-ms="11" started-at="2018-07-01T21:26:10Z" finished-at="2018-07-01T21:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="LogIn()[pri:1, instance:com.Annotations.Annotations1@61a485d2]" name="LogIn" duration-ms="2" started-at="2018-07-01T21:26:10Z" finished-at="2018-07-01T21:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="Inbox()[pri:2, instance:com.Annotations.Annotations1@61a485d2]" name="Inbox" duration-ms="2" started-at="2018-07-01T21:26:10Z" finished-at="2018-07-01T21:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Inbox -->
+        <test-method status="PASS" signature="ComposeMail()[pri:3, instance:com.Annotations.Annotations1@61a485d2]" name="ComposeMail" duration-ms="2" started-at="2018-07-01T21:26:10Z" finished-at="2018-07-01T21:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ComposeMail -->
+        <test-method status="PASS" signature="stepFunction()[pri:4, instance:com.Annotations.Annotations1@61a485d2]" name="stepFunction" duration-ms="2" started-at="2018-07-01T21:26:10Z" finished-at="2018-07-01T21:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stepFunction -->
+      </class> <!-- com.Annotations.Annotations1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
